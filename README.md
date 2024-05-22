@@ -2,7 +2,7 @@
 
 Providing CBBH writeup without payloads, with payloads and the full report.
 
-Use coupon code: Git-OSINT for 10% of on all the writeups.
+Use coupon code: Git-OSINT for 10% off on all the writeups.
 
 Discord: 3midjets_81260
 
